@@ -5,7 +5,7 @@ Hi, I am Rachit Singhvi, an aspiring roboticist 🤖, avid rock climber ⛰️ a
 Here is a quick glimpse of some projects that I have worked on and that have built me into the researcher, student and human I am. Thanks for taking the time to go through them!
 
 <h2> Contents </h2>
-1. Intel Asctec Leader-Follower UAV system
-2. Optimization Based Receding Horizon Trajectory Planner
-3. Flyboys Delta V UAV
-4. Fire Location Observation and Classification Cubesat Constellation
+1. Intel Asctec Leader-Follower UAV system \n
+2. Optimization Based Receding Horizon Trajectory Planner \n
+3. Flyboys Delta V UAV \n
+4. Fire Location Observation and Classification Cubesat Constellation \n
