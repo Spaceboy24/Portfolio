@@ -1,7 +1,7 @@
 //
 // AE483GroundStation
 // David Hanley
-// Modified by Rachit Singhvi, Chris Endres, Joseph Grigus and Elijah Chen
+// Rachit Singhvi, Chris Endres, Joseph Grigus and Elijah Chen
 //
 // main.c
 // Entry point to program. Retrieves data from the motion capture system
