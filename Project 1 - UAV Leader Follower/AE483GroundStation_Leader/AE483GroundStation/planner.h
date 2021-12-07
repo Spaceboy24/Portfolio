@@ -3,6 +3,10 @@
 //
 // AE483GroundStation
 // David Hanley
+// Rachit Singhvi
+// Joseph Grigus
+// Chris Endres
+// Elijah Chen
 //
 // planner.h
 // This file contains all functions for planning. The most basic example
