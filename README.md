@@ -6,8 +6,11 @@ Here is a quick glimpse of some projects that I have worked on and that have bui
 
 <h2> Contents </h2>
 <ol>
-  <li>__Bold__Intel Asctec Leader-Follower UAV system</li>: 
+  <li>Intel Asctec Leader-Follower UAV system</li>: 
   <li>Optimization Based Receding Horizon Trajectory Planner </li>
   <li>Flyboys Delta V UAV </li>
   <li>Fire Location Observation and Classification Cubesat Constellation </li>
 </ol>
+
+1) **Intel Asctec Leader-Follower UAV System**
+2) **Optimization Based Receding Horizon Trajectory Planner**
