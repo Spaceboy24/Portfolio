@@ -10,3 +10,4 @@ Here is a quick glimpse of some projects that I have worked on and that have bui
   <li>Optimization Based Receding Horizon Trajectory Planner </li>
   <li>Flyboys Delta V UAV </li>
   <li>Fire Location Observation and Classification Cubesat Constellation </li>
+</ol>
