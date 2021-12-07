@@ -12,4 +12,4 @@ Here is a quick glimpse of some projects that I have worked on and that have bui
 5) **Fire Location Observation and Classification Cubesat Constellation** | State-of-the-art satellite mission planning, design and execution  
 
 
-![alt text](https://github.com/Spaceboy24/Portfolio/tree/main/Media/Exploded.jpg)
+![Screenshot](https://github.com/Spaceboy24/Portfolio/tree/main/Media/Exploded.jpg)
