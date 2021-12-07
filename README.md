@@ -13,4 +13,7 @@ Here is a quick glimpse of some projects that I have worked on and that have bui
 </ol>
 
 1) **Intel Asctec Leader-Follower UAV System**
-2) **Optimization Based Receding Horizon Trajectory Planner**
+     Coordinated control for multi-UAV systems using MOCAP
+3) **Optimization Based Receding Horizon Trajectory Planner**
+4) **Flyboys Delta V UAV**
+5) **Fire Location Observation and Classification Cubesat Constellation** 
