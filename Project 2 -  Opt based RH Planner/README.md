@@ -1,15 +1,25 @@
-# Intel Asctec Leader Follower UAV System
-## Coordinated control for multi-UAV systems using MOCAP
+# Optimization based Receding Horizon Trajectory Planning using Bernstein Polynomials
+## Robot Motion Planning and Optimal Control using Non-linear Programming
 
-*This project was a turning point in my life as it made me realize my love for aerial robotics and the fact that I can pull several all-nighters for the cause!*
+The goal of this project was to design and implement a trajectory optimization algorithm for long and/or complex trajectories requiring a high order of approximation.
 
-The goal of this project was to design and implement a system that would simulate multi-robot coordination and autonomous following of a recognizable mobile target for application in search and rescue, perpetrator interception and robot-based transportation.
+**Long and/or complex trajectories:**
 
-We designed a leader-follower system consisting of a pair of Intel-Asctec UAVs equipped with reflective markers for motion capture capabilities. Each UAV was equipped with a PID controller onboard and had its designated ground station. The ground station enabled obstacle avoidance and trajectory planning using a gradient descent-based algorithm implemented in C. 
+1) Require a high order of approximation
+2) Require high computational power to manipulate (optimize)
+3) Computational complexity increases with the order of the system
 
-My team and I designed a novel way of coordinating between the two UAVs by modeling the leader as an obstacle to the follower and tweaking the gradient descent algorithm for the distingushable rigid body to be attracted to it, rather than the general repulsive obstacle avoidance which was implemented on all other rigid bodies in the environment. This was a stepping stone into our understanding of multi-UAV planning and control.
+**The receding horizon optimization scheme brings the following advantages:**
 
-[Here](https://www.youtube.com/watch?v=g6mSGPw2xz8) is a link to the final product of our efforts.
+1) Breaks the problem down in smaller, more manageable pieces using a sliding time window
+2) Decreases computational complexity
+3) Enables inclusion of dynamic obstacles in trajectory planning
+
+**We further employ Bernstein Polynomials for trajectory optimization for the following reasons:** 
+
+1) Convex hull property
+2) Degree elevation property
+3) De Casteljau Algorithm
 
 
 
