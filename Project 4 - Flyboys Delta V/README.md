@@ -8,9 +8,10 @@ During the course of this project, my team and I implemented state-of-the-art de
 
 <p align="center">
 <img src="https://github.com/Spaceboy24/Portfolio/blob/66228905e4291e21b3d1daaeedc9644af80127b3/Media/Exploded.jpg">
-<img src="
-https://github.com/Spaceboy24/Portfolio/blob/974c9d9a53959300b6b748faac81353b30621bb5/Project%204%20-%20Flyboys%20Delta%20V/Media/laser_cut.JPG">
+  
+<img src="https://github.com/Spaceboy24/Portfolio/blob/124d44ea8ae9d153517d3ef99da5fde9fa930824/Project%204%20-%20Flyboys%20Delta%20V/Media/laser_cut.JPG">
 </p>
+
 
 The specific design objectives are listed in the table below with an attributed level of importance for each objective:
 
@@ -29,7 +30,5 @@ The specific design objectives are listed in the table below with an attributed 
 | Tailless aircraft   |                    3|
 | Wingspan < 120"     |                    2|
 
-
-<img src="
-https://github.com/Spaceboy24/Portfolio/blob/974c9d9a53959300b6b748faac81353b30621bb5/Project%204%20-%20Flyboys%20Delta%20V/Media/final_UAV.JPG">
+<img src="https://github.com/Spaceboy24/Portfolio/blob/974c9d9a53959300b6b748faac81353b30621bb5/Project%204%20-%20Flyboys%20Delta%20V/Media/final_UAV.JPG">
 </p>
