@@ -6,7 +6,7 @@ Here is a quick glimpse of some projects that I have worked on and that have bui
 
 <h2> Contents </h2>
 
-1) **Intel Asctec Leader-Follower UAV System** | Coordinated control for multi-UAV systems using MOCAP
+1) **Intel Asctec Hummingbird Leader-Follower UAV System** | Coordinated control for multi-UAV systems using MOCAP
 3) **Optimization Based Receding Horizon Trajectory Planner** | Robot motion planning and optimal control using nonlinear programming
 4) **Flyboys Delta V UAV** | UAV Design, Build and Fly
 5) **Fire Location Observation and Classification Cubesat Constellation** | State-of-the-art satellite mission planning, design and execution  
