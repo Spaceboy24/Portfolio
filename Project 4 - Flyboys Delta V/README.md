@@ -15,8 +15,6 @@ During the course of this project, my team and I implemented state-of-the-art de
 
 The specific design objectives are listed in the table below with an attributed level of importance for each objective:
 
-<p align="center">
-
 | Design Objective    | Level of Importance |
 | ------------------- | ------------------- |
 | Medium to High AR   |                    2|
@@ -30,5 +28,6 @@ The specific design objectives are listed in the table below with an attributed 
 | Tailless aircraft   |                    3|
 | Wingspan < 120"     |                    2|
 
+<p align="center">
 <img src="https://github.com/Spaceboy24/Portfolio/blob/974c9d9a53959300b6b748faac81353b30621bb5/Project%204%20-%20Flyboys%20Delta%20V/Media/final_UAV.JPG">
 </p>
