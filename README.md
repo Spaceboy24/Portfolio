@@ -11,7 +11,10 @@ Here is a quick glimpse of some projects that I have worked on and that have bui
 4) **Flyboys Delta V UAV** | UAV Design, Build and Fly
 5) **Fire Location Observation and Classification Cubesat Constellation** | State-of-the-art satellite mission planning, design and execution  
 
-<img src="https://github.com/Spaceboy24/Portfolio/blob/1901772ddd49175443f07f2b229c603ca3d6d04d/Media/Obstacle_Avoidance_Pic.JPG" width="100" height="100"> |
+<p align="center">
+    <img src="https://github.com/Spaceboy24/Portfolio/blob/1901772ddd49175443f07f2b229c603ca3d6d04d/Media/Obstacle_Avoidance_Pic.JPG" width="100" height="100"> |
 <img src="https://github.com/Spaceboy24/Portfolio/blob/bc15f3b870f545851722980b492f521deef659f6/Media/RH_planner_obs.jpg" width="100" height="100"> |
 <img src="https://github.com/Spaceboy24/Portfolio/blob/bc15f3b870f545851722980b492f521deef659f6/Media/Exploded.jpg" width="100" height="100">
+</p>
+
 
