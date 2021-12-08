@@ -6,7 +6,15 @@ The goal of this project was to design, build and fly a transportable, hand laun
 
 During the course of this project, my team and I implemented state-of-the-art design processes using Siemens NX10.0 (CAD) and XFLR5 (Analysis) and manufacturing techniques such as CNC machining, 3D-printing and laser cutting to build the UAV. 
 
+<p align="center">
+<img src="https://github.com/Spaceboy24/Portfolio/blob/66228905e4291e21b3d1daaeedc9644af80127b3/Media/Exploded.jpg">
+<img src="
+https://github.com/Spaceboy24/Portfolio/blob/974c9d9a53959300b6b748faac81353b30621bb5/Project%204%20-%20Flyboys%20Delta%20V/Media/laser_cut.JPG">
+</p>
+
 The specific design objectives are listed in the table below with an attributed level of importance for each objective:
+
+<p align="center">
 
 | Design Objective    | Level of Importance |
 | ------------------- | ------------------- |
@@ -20,3 +28,8 @@ The specific design objectives are listed in the table below with an attributed 
 | Flight time 20-25 m |                    2|
 | Tailless aircraft   |                    3|
 | Wingspan < 120"     |                    2|
+
+
+<img src="
+https://github.com/Spaceboy24/Portfolio/blob/974c9d9a53959300b6b748faac81353b30621bb5/Project%204%20-%20Flyboys%20Delta%20V/Media/final_UAV.JPG">
+</p>
